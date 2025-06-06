@@ -180,8 +180,6 @@ print("Report:\n", classification_report(y_test, y_pred))
 
 ---
 
-### 🎨 Designed in Hinglish by Rudra Singh
 
-> "AI aur ML ko sikhna hai simple tarike se, toh yeh guide use karo confidently!"
 
 ---
